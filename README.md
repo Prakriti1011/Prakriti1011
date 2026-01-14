@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**Prakriti1011/Prakriti1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi I am Prakriti Bansal<br>
+🎓B-Tech 1st year student in Robotics and Automation<br>
+🌱 Currently learning **C++ and DSA**<br>
+# Tech<br>
+**Languages** Javascript,Python<br>
+**Web** HTML,CSS<br>
+**Tools** GitHub,VS code<br>
+# what am I working on <br>
+Learning C++ and DSA<br>
+Web development<br>
+# Connect with me <br>
+https://github.com/Prakriti1011<br>
+https://www.linkedin.com/in/prakriti-bansal
